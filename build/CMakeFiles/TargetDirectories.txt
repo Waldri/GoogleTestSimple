@@ -1,0 +1,5 @@
+/home/waldri/GoogleTestCourse/GoogleTest/build/CMakeFiles/sumLibrary.dir
+/home/waldri/GoogleTestCourse/GoogleTest/build/CMakeFiles/mainApp.dir
+/home/waldri/GoogleTestCourse/GoogleTest/build/CMakeFiles/testRunner.dir
+/home/waldri/GoogleTestCourse/GoogleTest/build/CMakeFiles/edit_cache.dir
+/home/waldri/GoogleTestCourse/GoogleTest/build/CMakeFiles/rebuild_cache.dir
